@@ -7,6 +7,8 @@
 <img src="./giphy.gif" width="400"/>
 
 
+<img src="./屏幕截图 2025-08-17 135610.png" width="400"/>
+
 
 
 ##About Me :I'm just a rookie in many fields.So I want to learn from each and every one of you.And I am an enthusiastic student who hopes to become friends with everyone. 
