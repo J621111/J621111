@@ -13,8 +13,8 @@
 
 
 
-<p1 style="font-size:40px;">😉About Me :I'm just a rookie in many fields.So I want to learn from each and every one of you.And I am an enthusiastic student who hopes to become friends with everyone. 
-</p1>
+***😉About Me :I'm just a rookie in many fields.So I want to learn from each and every one of you.And I am an enthusiastic student who hopes to become friends with everyone.*** 
+
 
 ![NyaaByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=J621111&show_icons=true&theme=transparent)
 
