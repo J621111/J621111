@@ -18,24 +18,15 @@
 
 ---
 
-## 🚀 GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=J621111&show_icons=true&theme=tokyonight" width="100%"/>
+<p align="center">
+  <img src="/github-metrics.svg" width="100%" />
+</p>
 
 ---
 
 ## 🔥 Streak Stats  
 
 <img src="https://streak-stats.demolab.com/?user=J621111&theme=tokyonight" width="100%"/>
-
----
-
-## 🖥️ Most Used Languages  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J621111&layout=compact&theme=tokyonight" width="100%"/>
-
----
-
 
 
 </div>
